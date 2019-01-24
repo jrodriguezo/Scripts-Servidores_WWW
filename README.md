@@ -3,7 +3,7 @@
 
 Pasos a realizar:
  - **python3 Autom_VirtualMachine.py** en un host anfitrión
- - **sudo virsh console 'name'**// 'name' = Servidor (si se ha configurado así)
+ - **sudo virsh console 'name'** // 'name' = Servidor (si se ha configurado así)
  - cdps@cdps dentro sudo -s para root@cdps 
  - copiar los ficheros Instalapache.py y Addwebhost.py con:  **scp 'fichero' cdps@192.168.122.241:.** 
 (ver ifconfig, puede cambiar la dirección IP. No olvidarse de los dos puntos y el punto al final de la sentencia)
