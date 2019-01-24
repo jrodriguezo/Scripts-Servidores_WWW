@@ -1,5 +1,7 @@
 # Despliegue de servidores web con Apache mediante scripts escritos en Python
 
+![p2-screenshot](https://user-images.githubusercontent.com/36509669/51669339-8b24b300-1fc4-11e9-8070-643afb297bae.JPG)
+
 Pasos a realizar:
  - **python3 Autom_VirtualMachine.py** en un host anfitrión
  - **sudo virsh console 'name'** // 'name' = Servidor (si se ha configurado así)
