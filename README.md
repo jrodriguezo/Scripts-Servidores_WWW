@@ -1,5 +1,4 @@
-# Despliegue de servidores web con scripts escritos en Python
-
+# Despliegue de servidores web con Apache mediante scripts escritos en Python
 
 Pasos a realizar:
  - **python3 Autom_VirtualMachine.py** en un host anfitrión
